@@ -1,35 +1,50 @@
-API_ID: 
-API_HASH: 
-BOT_TOKEN: 
+API_ID: 24985686
 
+API_HASH: fc3946cec9755c3f1907fe32ec3d8413
 
-MONGO_URL: 
-REDIS_URI:
-REDIS_PORT:
-REDIS_PASS:
+BOT_TOKEN: 6102944243:AAHl99uKWiMgFVdvH4mFdCzbaM5iSL4vi3Y
 
-SESSION_API_ID: 
-SESSION_API_HASH: 
-SESSION_STRING: 
+MONGO_URL: mongodb+srv://FWalid:fareswalid770#@cluster0.ritupx2.mongodb.net/?retryWrites=true&w=majority
+
+REDIS_URI: redis://default:PJ57dG98gxYZZQ2lCI9MnDgkVZSUJn2E@redis-15425.c1.asia-northeast1-1.gce.cloud.redislabs.com
+
+REDIS_PORT: 15425
+
+REDIS_PASS: PJ57dG98gxYZZQ2lCI9MnDgkVZSUJn2E
+
+SESSION_API_ID: 24985686
+
+SESSION_API_HASH: fc3946cec9755c3f1907fe32ec3d8413
+
+SESSION_STRING: 1BJWap1sBu3A97ll6naKuZ7RGOT1j7iG8gGLbhPxwCP6Yg2Xl173kt_UhBInwyp-vDBSLxGdUHx3p96105okz71EFOvxNNjtNrAybK6xUM6FigIUVnOMcnXNfcKYVArDRDaRc8o7bvgGhOA4EqqcyeMTZLrksPHcHfUlbTzfa42SlqJYNSNrVU21JQhnw-diGC90bJJnlr7z8tYqIJgRhcOF1BuYLVUN5hcT6un7Mi5eMiinitJxKlZKK5ThVx5l96Z1tBm3SMYdm4UdWe_DjjWOv7TtHT12yZzaLjxnYH69XFAPROV24_rZbs9gAPTJxvgL8iwElzkFpF-6wpfRsQWx6Kic3jD8=
 
 ADMINS: 
-  - 1317173146
 
-OWNER: 1317173146
+  - 6226795504
+
+OWNER: 6226795504
 
 BOT_PIC: https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg
+
 OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
 
+SUPPORT_CHAT: FWMain 
 
-SUPPORT_CHAT: roldexversechats 
-# LOG_CHAT: 
-LOG_CHAT: 
-
-
+LOG_CHAT: FWMainChat
 
 HANDLERS: 
+
   - "."
+
   - "!"
+
   - "/"
+
   - "?"
+
+
+
+
+
+
 
